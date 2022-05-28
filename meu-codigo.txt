@@ -1,2 +1,4 @@
 hello world
 meu nome é Walter
+
+Add: Permissão para cadastrar usuários.
