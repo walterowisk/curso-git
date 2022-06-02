@@ -1,8 +1,10 @@
-![Logo](https://git-scm.com/images/logos/1color-orange-lightbg@2x.png)
-  
+<div align="center"> <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Logo Git" width="600"> 
+</div> 
 
 <h1 align="center">Curso de GIT</h1>
 Curso de Git Completo para iniciantes. Tudo que precisa saber sobre Git para trabalhar profissionalmente com código.
+
+
 
 
 
